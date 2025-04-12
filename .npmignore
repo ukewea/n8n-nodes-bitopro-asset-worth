@@ -1,0 +1,12 @@
+.DS_Store
+*.tsbuildinfo
+.nyc_output
+.vscode
+.idea
+.editorconfig
+.github
+.prettierignore
+coverage/
+node_modules/
+tsconfig.eslint.json
+tsconfig.json
