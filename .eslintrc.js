@@ -46,6 +46,9 @@ module.exports = {
 				'n8n-nodes-base/node-execute-block-missing-continue-on-fail': 'off',
 				'n8n-nodes-base/node-resource-description-filename-against-convention': 'off',
 				'n8n-nodes-base/node-param-fixed-collection-type-unsorted-items': 'off',
+
+				// turn it back on when https://github.com/ivov/eslint-plugin-n8n-nodes-base/issues/195 is fixed
+				'n8n-nodes-base/node-class-description-inputs-wrong-regular-node': 'off',
 			},
 		},
 	],
